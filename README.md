@@ -26,8 +26,8 @@
 
 ## 📫 Connect with Me
 - 📧 Email: satyamsajha@gmail.com
-- 🐦 Twitter: [@SatyamJ402]([https://twitter.com/yourhandle](https://x.com/SatyamJ402))
-- 💼 LinkedIn: [Satyam Jha]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/satyam-jha-783ab4248/))
+- 🐦 Twitter: [@SatyamJ402]([https://x.com/SatyamJ402])
+- 💼 LinkedIn: [Satyam Jha]([https://www.linkedin.com/in/satyam-jha-783ab4248/])
 
 ---
 
