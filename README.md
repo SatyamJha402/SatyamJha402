@@ -11,8 +11,9 @@
 ## 🚧 Projects
 
 ### 🌐 Full Projects / Major Work
-- [StreamShield](https://github.com/Husainj/backend-StreamShield): Blurs Login pages and URLs & Beeps given words for given video/audio, can work directly on live stream(group project).
-- [Email Assistant](https://github.com/SatyamJha402/Email-Assistant): Fetches gmails, categorizes between spam/not-spam through ML model, then categorize between user defined categories, and displays summary in rich library based UI in terminal.
+- [StreamShield](https://github.com/Husainj/backend-StreamShield): Blurs Login pages and URLs & Beeps given words for given video/audio, can work directly on live stream (group project).
+- [RagNosis](https://github.com/SatyamJha402/RagNosis): Built a research/learning assistant with a RAG pipeline utilizing LangChain and HuggingFace for document parsing, chunking, and semantic embedding generation using MiniLM.
+
   
 ### 🔰 Machine Learning Projects (Sklearn)
 - [Handwritten digit recognition](https://github.com/SatyamJha402/Machine-Learning/blob/main/Classification.ipynb): Uses several ML classification algorithms to identify digits from MNIST dataset.
@@ -20,6 +21,12 @@
 - [SMS spam classifier](https://github.com/SatyamJha402/Machine-Learning/blob/main/SMS%20spam%20classifier.ipynb): Compares several Classification algorithms, and uses the best one to classfy between spam or not spam messegas.
 
 ### 🧠 Deep Learning Projects
+- [MultiWearNet](https://github.com/SatyamJha402/MultiWearNet): Developed a multi-headed Convolutional Neural Network in PyTorch to predict four fashion attributes (color, gender, article type, season) from product images, achieving accuracy of 89%, 87%, 64%, 72%.
+- [Next Word Predictor](https://github.com/SatyamJha402/Deep-Learning/blob/main/LSTM.ipynb): Developed a next word predictor with LSTM on a small database.
+- [QnA with RNN](): Developed a RNN model to answer questions from a given dataset.
+
+### Others
+- [Email Assistant](https://github.com/SatyamJha402/Email-Assistant): Fetches gmails, categorizes between spam/not-spam through ML model, then categorize between user defined categories, and displays summary in rich library based UI in terminal.
 
 
 ---
